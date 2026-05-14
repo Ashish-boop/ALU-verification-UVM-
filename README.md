@@ -46,7 +46,7 @@ This project implements a UVM-based verification environment for validating the 
 ---
 
 ## Coverage Achieved
-- Functional Coverage: 95%
+- Functional Coverage: 100%
 
 ---
 
